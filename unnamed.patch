@@ -1,0 +1,10 @@
+Index: ../../README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../../README.md	(revision )
++++ ../../README.md	(revision )
+@@ -0,0 +1,2 @@
++# CSC200_Spring-2016_TicTacToe
++# CSC200_Spring-2016_TicTacToe
